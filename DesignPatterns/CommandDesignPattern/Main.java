@@ -6,7 +6,8 @@ public class Main {
         *  In command design pattern we have 3 layers
         *  1. Invoker
         *  2. Command
-        *  3. Receiver*/
+        *  3. Receiver
+        *   Undo and redo in code editor or any other functionality*/
         AirConditioner airConditioner = new AirConditioner();
         RemoteControl remoteControl = new RemoteControl();
 
